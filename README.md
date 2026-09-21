@@ -16,7 +16,7 @@ npm test
 
 ## Deploy
 
-https://<url-que-apareceu-no-log-do-deploy>
+https://<https://lista-tarefas-bnalwz612-ares-projects-8460dcad.vercel.app>
 
 ## CI/CD
 
